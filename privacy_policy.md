@@ -16,15 +16,15 @@ privacy-policy-generator/).
 Interpretation and Definitions  
 ------------------------------
 
-Interpretation  
-~~~~~~~~~~~~~~
+Interpretation 
+--------------
 
 The words of which the initial letter is capitalized have meanings defined
 under the following conditions. The following definitions shall have the same
 meaning regardless of whether they appear in singular or in plural.
 
 Definitions  
-~~~~~~~~~~~
+-----------
 
 For the purposes of this Privacy Policy:
 
@@ -71,7 +71,7 @@ Collecting and Using Your Personal Data
 ---------------------------------------
 
 Types of Data Collected  
-~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------
 
 Personal Data  
 *************
@@ -121,7 +121,7 @@ You can enable or disable access to this information at any time, through Your
 Device settings.
 
 Use of Your Personal Data  
-~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------
 
 The Company may use Personal Data for the following purposes:
 
@@ -187,7 +187,7 @@ We may share Your personal information in the following situations:
     other purpose with Your consent.
 
 Retention of Your Personal Data  
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------------
 
 The Company will retain Your Personal Data only for as long as is necessary
 for the purposes set out in this Privacy Policy. We will retain and use Your
@@ -202,7 +202,7 @@ Service, or We are legally obligated to retain this data for longer time
 periods.
 
 Transfer of Your Personal Data  
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+------------------------------
 
 Your information, including Personal Data, is processed at the Company's
 operating offices and in any other places where the parties involved in the
@@ -221,7 +221,7 @@ there are adequate controls in place including the security of Your data and
 other personal information.
 
 Delete Your Personal Data  
-~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------
 
 You have the right to delete or request that We assist in deleting the
 Personal Data that We have collected about You.
@@ -239,7 +239,7 @@ Please note, however, that We may need to retain certain information when we
 have a legal obligation or lawful basis to do so.
 
 Disclosure of Your Personal Data  
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+--------------------------------
 
 Business Transactions  
 *********************
@@ -268,7 +268,7 @@ action is necessary to:
   * Protect against legal liability
 
 Security of Your Personal Data  
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+------------------------------
 
 The security of Your Personal Data is important to Us, but remember that no
 method of transmission over the Internet, or method of electronic storage is
